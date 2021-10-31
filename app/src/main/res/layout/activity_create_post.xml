@@ -33,7 +33,7 @@
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="30dp"
-        android:hint="what's in your mind "
+        android:hint="say hello  "
         android:gravity="top"
         android:autofillHints="hey there !!"
         android:padding="12dp"
